@@ -100,3 +100,12 @@ p.bjqs-caption{
 .review-rating {
   display: inline-block;
 }
+
+/* Overrider bootstrap*/
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus{
+  color: #999;
+}
