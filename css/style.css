@@ -32,10 +32,14 @@ body {
 .review-content{
   padding: 20px;
   margin: 20px 40px 20px 40px;
-  background-color: rgba(255, 255, 255, .9);
   border-radius: 4px;
+  text-align: left;
 }
-
+.review{
+  border-left: 2px solid grey;
+  margin-bottom: 20px;
+  padding: 4px;
+}
 #logo-banner{
   padding: 2px 0 12px 0;
 }
