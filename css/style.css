@@ -42,3 +42,9 @@ body {
   padding-left: 20px;
  	padding-right: 20px;
 }
+
+/* Ratings */
+.review-item,
+.review-rating {
+  display: inline-block;
+}
